@@ -1,6 +1,6 @@
 {
     "data": {
-    "facturacion": [
+    "facturacion": 
       {
         "id_factura": "001",
         "tipo_id": "CC",
@@ -685,6 +685,5 @@
         "adicional20": "",
         "fecha": "2024-01-02"
       }
-    ]
     }
 }
