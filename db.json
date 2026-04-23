@@ -1,7 +1,7 @@
 {
   "data": {
-    "facturacion": [
-      {
+    "facturacion": {
+      "data": {
         "id_factura": "001",
         "tipo_id": "CC",
         "numero_id": 10251205,
@@ -39,7 +39,7 @@
         "adicional20": "Ciudad Medellin",
         "fecha": "2024-01-15"
       },
-      {
+      "data": {
         "id_factura": "002",
         "tipo_id": "CE",
         "numero_id": 10548715,
@@ -77,7 +77,7 @@
         "adicional20": "",
         "fecha": "2024-01-20"
       },
-      {
+      "data": {
         "id_factura": "003",
         "tipo_id": "NIT",
         "numero_id": 11520158,
@@ -115,7 +115,7 @@
         "adicional20": "",
         "fecha": "2024-01-05"
       },
-      {
+      "data": {
         "id_factura": "004",
         "tipo_id": "TI",
         "numero_id": 25400125,
@@ -153,7 +153,7 @@
         "adicional20": "",
         "fecha": "2024-01-10"
       },
-      {
+      "data": {
         "id_factura": "005",
         "tipo_id": "PP",
         "numero_id": 5402504,
@@ -191,7 +191,7 @@
         "adicional20": "",
         "fecha": "2024-01-18"
       },
-      {
+      "data": {
         "id_factura": "006",
         "tipo_id": "CC",
         "numero_id": 5402505,
@@ -229,7 +229,7 @@
         "adicional20": "",
         "fecha": "2024-01-05"
       },
-      {
+      "data": {
         "id_factura": "007",
         "tipo_id": "CC",
         "numero_id": 78451236,
@@ -267,7 +267,7 @@
         "adicional20": "Minutos larga distancia 0",
         "fecha": "2024-01-22"
       },
-      {
+      "data": {
         "id_factura": "008",
         "tipo_id": "NIT",
         "numero_id": 65214789,
@@ -305,7 +305,7 @@
         "adicional20": "Soporte tecnico presencial",
         "fecha": "2024-01-28"
       },
-      {
+      "data": {
         "id_factura": "009",
         "tipo_id": "CC",
         "numero_id": 78965412,
@@ -343,7 +343,7 @@
         "adicional20": "",
         "fecha": "2024-01-30"
       },
-      {
+      "data": {
         "id_factura": "010",
         "tipo_id": "CE",
         "numero_id": 95135784,
@@ -381,7 +381,7 @@
         "adicional20": "",
         "fecha": "2024-01-12"
       },
-      {
+      "data": {
         "id_factura": "011",
         "tipo_id": "CC",
         "numero_id": 45698712,
@@ -419,7 +419,7 @@
         "adicional20": "",
         "fecha": "2024-01-08"
       },
-      {
+      "data": {
         "id_factura": "011",
         "tipo_id": "CC",
         "numero_id": 45698712,
@@ -457,7 +457,7 @@
         "adicional20": "",
         "fecha": "2024-01-08"
       },
-      {
+      "data": {
         "id_factura": "011",
         "tipo_id": "CC",
         "numero_id": 45698712,
@@ -495,7 +495,7 @@
         "adicional20": "",
         "fecha": "2024-01-08"
       },
-      {
+      "data": {
         "id_factura": "011",
         "tipo_id": "CC",
         "numero_id": 45698712,
@@ -533,7 +533,7 @@
         "adicional20": "",
         "fecha": "2024-01-08"
       },
-      {
+      "data": {
         "id_factura": "012",
         "tipo_id": "TI",
         "numero_id": 35795146,
@@ -571,7 +571,7 @@
         "adicional20": "",
         "fecha": "2024-01-02"
       },
-      {
+      "data": {
         "id_factura": "012",
         "tipo_id": "TI",
         "numero_id": 35795146,
@@ -609,7 +609,7 @@
         "adicional20": "",
         "fecha": "2024-01-02"
       },
-      {
+      "data": {
         "id_factura": "012",
         "tipo_id": "TI",
         "numero_id": 35795146,
@@ -647,7 +647,7 @@
         "adicional20": "",
         "fecha": "2024-01-02"
       },
-      {
+      "data": {
         "id_factura": "012",
         "tipo_id": "TI",
         "numero_id": 35795146,
@@ -685,6 +685,6 @@
         "adicional20": "",
         "fecha": "2024-01-02"
       }
-    ]
+    }
   }
 }
